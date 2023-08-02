@@ -18,7 +18,7 @@ const Navbar = () => (
 
       <div className="container flex justify-center gap-8 absolute left-1/2 transform -translate-x-1/2 top-1/2 -translate-y-1/2">
         <h2 className="font-bold text-[20px] leading-[30.24px] text-white relative z-10">
-          <span className="cos">Startps</span>
+          <span className="cos">Startups</span>
         </h2>
         <h2 className="font-bold text-[20px] leading-[30.24px] text-white relative z-10">
           <span className="cos">Raise Fundings</span>
